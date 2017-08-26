@@ -1,0 +1,24 @@
+{
+  "name": "stormy-spire-38869",
+  "description": "Mark's app",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.17.1"
+  }
+}

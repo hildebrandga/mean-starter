@@ -1,0 +1,47 @@
+img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.jumbotron-fluid {
+  padding: 0;
+  color: white;
+}
+
+.parallax {
+  text-align: center;
+  background-image: url(../images/shanghai.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+.parallax-pattern-overlay {
+  /* background-image: url(../images/shanghai-skyline-wallpaper.jpg); */
+  background-repeat: repeat;
+}
+
+.footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#size-banner {
+  height: 580px;
+  padding-top: 80px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: auto;
+}
+
+.updated {
+  color: white;
+  font-style: italic;
+}
