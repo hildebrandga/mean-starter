@@ -19,10 +19,10 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   }));
 
-  it(`should have as title 'stormy-spire-38369'`, async(() => {
+  it(`should have as title 'mean-starter'`, async(() => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('stormy-spire-38369');
+    expect(app.title).toEqual('mean-starter');
   }));
 
   it('should render title in a h1 tag', async(() => {

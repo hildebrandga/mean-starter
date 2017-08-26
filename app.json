@@ -1,6 +1,6 @@
 {
-  "name": "stormy-spire-38869",
-  "description": "Mark's app",
+  "name": "mean-starter",
+  "description": "MEAN starter",
   "repository": "",
   "logo": "",
   "keywords": ["node", "express", "static"],

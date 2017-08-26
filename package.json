@@ -52,7 +52,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.heroku.com/stormy-spire-38369"
+    "url": "https://github.com/hildebrandga/mean-starter.git"
   },
   "keywords": [
     "node",
